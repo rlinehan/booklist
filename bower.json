@@ -1,5 +1,5 @@
 {
-  "name": "ember-booklist",
+  "name": "booklist",
   "version": "0.0.0",
   "authors": [
     "Ruth Linehan"
@@ -9,7 +9,7 @@
     "ember"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/rlinehan/ember-booklist",
+  "homepage": "https://github.com/rlinehan/booklist",
   "private": true,
   "ignore": [
     "**/.*",

@@ -1,4 +1,4 @@
-ember-booklist
+booklist
 ========
 
 An Ember app that displays a list of books.
