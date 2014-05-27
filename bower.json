@@ -1,0 +1,26 @@
+{
+  "name": "ember-booklist",
+  "version": "0.0.0",
+  "authors": [
+    "Ruth Linehan"
+  ],
+  "description": "A book list written in Ember",
+  "keywords": [
+    "ember"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/rlinehan/ember-booklist",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "ember": "1.5.1",
+    "jquery": "1.10.2",
+    "handlebars": "1.1.2"
+  }
+}
